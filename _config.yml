@@ -1,0 +1,28 @@
+name: Bionic Planet
+favicon: null
+layout_spectrum: 0.3145028599537909
+typography_spectrum: 0.022723261499777436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.25642141327261925
+  lightness: 0.36236039479263127
+  saturation: 0.3015155072789639
+  rhythmicContrast: 0.6603574305772781
+purpose: []
